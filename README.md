@@ -11,7 +11,7 @@ In order to provide Atliq Hardware Technologies with insights into its financial
 3. [Resources and Methodology](#Resources-and-Methodology)
 4. [Sales Analytics Goals](#Sales-Analytics-Goals)
 5. [Finance Analytics Goals](#Finance-Analytics-Goals)
-6. [Workflow Summary](#workflow-breakdown)
+6. [Workflow Summary](#workflow-Summary)
 7. [Role of Reports](#role-of-reports)
 8. [Documentation](#documentation)
 9. [References](#references)
@@ -110,11 +110,11 @@ The reports in this project play a crucial role in guiding decision-making for A
 ## Documentation
 
 Check out all the created reports that I have attached to this repository.
-- [Customer Performance Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
-- [Market Performance Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-- [P&L Statement By Market Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-- [P&L Statement By Year Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
-- [P&L Statement By Month Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+- [Customer Performance Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- [Market Performance Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+- [P&L Statement By Market Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+- [P&L Statement By Year Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [P&L Statement By Month Report](https://github.com/VASU12122001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ---
 
